@@ -40,3 +40,5 @@ Throughout 50+ code blocks, this exploration tracked the evolution of neural int
 The generated results in **`01_pima_yeast_balance.png`** serve as the "Stress Test" of the entire exploration. 
 
 While the CNNs show the model's **Intelligence**, this graph shows the model's **Resilience**. It demonstrates that your **Proposed EC Method** maintains a higher F1-Score than standard Baselines even when up to 50% of the data is missing. This validates that the architectures explored aren't just "academic exercises" but are robust enough to handle the "messy data" reality of real-world environments.
+
+<img width="822" height="528" alt="01_pima_yeast_balance" src="https://github.com/user-attachments/assets/91996f5f-71df-4551-90b0-a93f9a302c86" />
